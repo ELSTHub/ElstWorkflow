@@ -3,8 +3,8 @@ package registry
 import (
 	"testing"
 
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 func TestNew(t *testing.T) {

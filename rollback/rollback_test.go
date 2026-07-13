@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/elstworkflow/context"
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/context"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func TestNewRollbackManager(t *testing.T) {

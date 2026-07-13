@@ -25,7 +25,7 @@
 ### 安装
 
 ```bash
-go get github.com/elstworkflow
+go get github.com/ELSTHub/elstworkflow
 ```
 
 ### 基本使用
@@ -37,10 +37,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/elstworkflow/builder"
-	"github.com/elstworkflow/context"
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/engine"
+	"github.com/ELSTHub/elstworkflow/builder"
+	"github.com/ELSTHub/elstworkflow/context"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/engine"
 )
 
 func main() {

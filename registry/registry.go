@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 // Factory 定义节点工厂函数类型

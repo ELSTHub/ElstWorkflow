@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elstworkflow/context"
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/context"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func TestNewFuncNode(t *testing.T) {

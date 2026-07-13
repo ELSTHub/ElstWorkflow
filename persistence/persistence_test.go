@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func TestNewMemoryStore(t *testing.T) {

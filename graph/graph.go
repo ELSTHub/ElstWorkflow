@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 // Edge 表示图中的一条边

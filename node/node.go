@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 // Node 定义工作流节点接口

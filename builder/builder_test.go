@@ -3,7 +3,7 @@ package builder
 import (
 	"testing"
 
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func TestNewBuilder(t *testing.T) {

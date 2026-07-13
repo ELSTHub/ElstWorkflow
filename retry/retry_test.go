@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func TestNewFixedRetryer(t *testing.T) {

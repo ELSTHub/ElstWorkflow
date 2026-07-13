@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/elstworkflow/context"
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/context"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 func TestNewChain(t *testing.T) {

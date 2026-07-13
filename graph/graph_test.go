@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 func createTestNode(name string) node.Node {

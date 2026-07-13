@@ -5,8 +5,8 @@ package scheduler
 import (
 	"sync"
 
-	"github.com/elstworkflow/graph"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/graph"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 // Scheduler 定义调度器接口

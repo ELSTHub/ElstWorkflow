@@ -3,9 +3,9 @@ package engine
 import (
 	"testing"
 
-	"github.com/elstworkflow/builder"
-	"github.com/elstworkflow/context"
-	"github.com/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/builder"
+	"github.com/ELSTHub/elstworkflow/context"
+	"github.com/ELSTHub/elstworkflow/core"
 )
 
 func createTestWorkflow(t *testing.T) *builder.Workflow {

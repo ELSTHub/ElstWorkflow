@@ -5,9 +5,9 @@ package builder
 import (
 	"fmt"
 
-	"github.com/elstworkflow/core"
-	"github.com/elstworkflow/graph"
-	"github.com/elstworkflow/node"
+	"github.com/ELSTHub/elstworkflow/core"
+	"github.com/ELSTHub/elstworkflow/graph"
+	"github.com/ELSTHub/elstworkflow/node"
 )
 
 // Workflow 表示构建完成的工作流
